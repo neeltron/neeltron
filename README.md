@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm neeltron</h1>
+<h1 align="center">Hi 👋, I'm Neel!</h1>
 <h3 align="center">A passionate Problem Solver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeltron&label=Profile%20views&color=0e75b6&style=flat" alt="neeltron" /> </p>
