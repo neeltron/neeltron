@@ -11,7 +11,6 @@
 <p align="left">
 <a href="https://twitter.com/neeltron" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="neeltron" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/neeltron" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="neeltron" height="30" width="40" /></a>
-<a href="https://kaggle.com/neeltron" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="neeltron" height="30" width="40" /></a>
 <a href="https://instagram.com/neeltron" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="neeltron" height="30" width="40" /></a>
 <a href="https://medium.com/@neeltron" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@neeltron" height="30" width="40" /></a>
 </p>
